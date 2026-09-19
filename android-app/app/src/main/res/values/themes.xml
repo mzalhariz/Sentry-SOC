@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.SentryAccess" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0A0A0A</item>
+        <item name="android:windowBackground">#0A0A0A</item>
+    </style>
+</resources>
